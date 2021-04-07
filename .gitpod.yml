@@ -5,3 +5,4 @@ vscode:
   extensions:
     - vscode.java@1.55.0:631fc4d56e614d7dd957052a72746766
     - vscjava.vscode-java-test@0.28.1:56ae6da859db06ff02cc83b4dc77f5f4
+    - vscjava.vscode-maven@0.21.2:b45124b7616a2ee8da3532d4e4099189
