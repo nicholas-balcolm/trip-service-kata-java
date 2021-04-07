@@ -1,7 +1,7 @@
 Testing legacy code: Hard-wired dependencies
 ============================================
 
-Code related to my [Testing legacy code: Hard-wired dependencies][1] blog post. Try not reading the blog post before doing the exercise yourself.
+Code related to Sandro Mancuso's [Testing legacy code: Hard-wired dependencies][1] blog post. Try not reading the blog post before doing the exercise yourself.
 
 What is it about?
 -----------------
